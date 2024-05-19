@@ -1,0 +1,22 @@
+{
+  "name": "@roycenobles/cdk-constructs",
+  "version": "1.0.0",
+  "description": "CDK Constructs for use in AWS projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roycenobles/cdk-constructs.git"
+  },
+  "keywords": [
+    "CDK"
+  ],
+  "author": "Royce Nobles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roycenobles/cdk-constructs/issues"
+  },
+  "homepage": "https://github.com/roycenobles/cdk-constructs#readme"
+}
