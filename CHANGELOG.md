@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/roycenobles/cdk-constructs/compare/v1.0.2...v1.0.3) (2024-05-22)
+
+
+### Bug Fixes
+
+* adding back post compile ([d9dd390](https://github.com/roycenobles/cdk-constructs/commit/d9dd3906b4b9fc9dd22d59c8c7c324bf9d9e323e))
+* removing post scripts for now ([342b7cd](https://github.com/roycenobles/cdk-constructs/commit/342b7cd285340c1d2e545fcdc95607774bb64755))
+
 ## [1.0.2](https://github.com/roycenobles/cdk-constructs/compare/v1.0.1...v1.0.2) (2024-05-22)
 
 
