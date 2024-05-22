@@ -39,8 +39,8 @@ jobs:
       - name: Install
         run: npx ci
 
-      - name: Build
-        run: npm run build
+      - name: Compile
+        run: npm run compile
 
       - name: Release
         run: npx semantic-release
