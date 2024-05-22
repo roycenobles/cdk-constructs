@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/roycenobles/cdk-constructs/compare/v1.0.1...v1.0.2) (2024-05-22)
+
+
+### Bug Fixes
+
+* triggering another release ([b1c2b76](https://github.com/roycenobles/cdk-constructs/commit/b1c2b765e18b9d6e37ab025e669516b0aa5e43f5))
+
 ## [1.0.1](https://github.com/roycenobles/cdk-constructs/compare/v1.0.0...v1.0.1) (2024-05-22)
 
 
