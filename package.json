@@ -11,8 +11,6 @@
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
-    "postcompile": "cp package.json dist/package.json && cp package-lock.json dist/package-lock.json && cp README.md dist/README.md",
-    "postversion": "cp package.json ../ && cp package-lock.json ../",
     "fix": "gts fix",
     "prepare": "npm run compile",
     "pretest": "npm run compile",
