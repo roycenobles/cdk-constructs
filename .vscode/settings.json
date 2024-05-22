@@ -10,7 +10,9 @@
     "typescript.extension.sortImports.quoteStyle": "double",
 	"typescript.extension.sortImports.sortOnSave": true,
     "cSpell.words": [
+        "postcompile",
         "posttest",
+        "postversion",
         "roycenobles"
     ],
 }
