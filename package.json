@@ -40,5 +40,9 @@
     "semantic-release": "^23.1.1",
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.142.1",
+    "constructs": "^10.3.0"
   }
 }
