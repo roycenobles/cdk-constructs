@@ -29,7 +29,7 @@ jobs:
       - name: Setup Git
         run: |
           git config user.name "Royce Nobles"
-          git config user.email "roycenobles@gmail.com"
+          git config user.email "ranobles@gmail.com"
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
