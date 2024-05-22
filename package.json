@@ -1,6 +1,6 @@
 {
   "name": "@roycenobles/cdk-constructs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "CDK Constructs for use in AWS projects.",
   "exports": {
     "./dynamodb": "./dynamodb/index.js",
