@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/roycenobles/cdk-constructs/compare/v1.0.7...v1.0.8) (2024-05-23)
+
+
+### Bug Fixes
+
+* added typings ([7ef87ad](https://github.com/roycenobles/cdk-constructs/commit/7ef87adcf7e1feba15347926e167efabc147dcf8))
+
 ## [1.0.7](https://github.com/roycenobles/cdk-constructs/compare/v1.0.6...v1.0.7) (2024-05-23)
 
 
