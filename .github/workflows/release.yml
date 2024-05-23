@@ -6,8 +6,16 @@ on:
     branches: [main]
 
 jobs:
+  test:
+    name: Test
+    uses: ./.github/workflows/test.yml
+    secrets:
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
   create-release:
     name: Create a Release
+
+    needs: [test]
 
     permissions:
       contents: write

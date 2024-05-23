@@ -7,14 +7,13 @@
     "./lambda": "./lambda/index.js"
   },
   "scripts": {
+    "pretest": "npm run compile",
     "test": "jest",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
     "postcompile": "cp package.json dist/package.json && cp package-lock.json dist/package-lock.json && cp README.md dist/README.md",
-    "fix": "gts fix",
-    "pretest": "npm run compile",
-    "posttest": "npm run lint"
+    "fix": "gts fix"
   },
   "repository": {
     "type": "git",
