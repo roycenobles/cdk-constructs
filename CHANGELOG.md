@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/roycenobles/cdk-constructs/compare/v1.0.5...v1.0.6) (2024-05-23)
+
+
+### Bug Fixes
+
+* workflow updates ([54db5d1](https://github.com/roycenobles/cdk-constructs/commit/54db5d1ac9a1ee363eafcbf5069154e76930e905))
+
 ## [1.0.5](https://github.com/roycenobles/cdk-constructs/compare/v1.0.4...v1.0.5) (2024-05-23)
 
 
