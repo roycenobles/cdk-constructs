@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/roycenobles/cdk-constructs/compare/v1.0.6...v1.0.7) (2024-05-23)
+
+
+### Bug Fixes
+
+* removed prepare step ([dfcbfc5](https://github.com/roycenobles/cdk-constructs/commit/dfcbfc59511b45c6b384035cb023e7f19519b4d7))
+
 ## [1.0.6](https://github.com/roycenobles/cdk-constructs/compare/v1.0.5...v1.0.6) (2024-05-23)
 
 
