@@ -42,11 +42,11 @@ jobs:
       - name: Compile
         run: npm run compile
 
-      # - name: Release
-      #   run: npx semantic-release
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-      #     NPM_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - name: Release
+        run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          NPM_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
       # - name: Set version
       #   id: set-version
