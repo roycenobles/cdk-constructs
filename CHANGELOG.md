@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/roycenobles/cdk-constructs/compare/v1.0.9...v1.0.10) (2024-05-24)
+
+
+### Bug Fixes
+
+* set base memory size for lambda ([fd0c56e](https://github.com/roycenobles/cdk-constructs/commit/fd0c56ee26a93a82d8c042e4980446f31d423c01))
+
 ## [1.0.9](https://github.com/roycenobles/cdk-constructs/compare/v1.0.8...v1.0.9) (2024-05-24)
 
 
