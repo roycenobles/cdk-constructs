@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/roycenobles/cdk-constructs/compare/v1.0.10...v1.0.11) (2024-05-24)
+
+
+### Bug Fixes
+
+* added tests and typescript downgrade ([aab82a0](https://github.com/roycenobles/cdk-constructs/commit/aab82a0c39e8d206be2552eaf20ffb2551702132))
+
 ## [1.0.10](https://github.com/roycenobles/cdk-constructs/compare/v1.0.9...v1.0.10) (2024-05-24)
 
 
