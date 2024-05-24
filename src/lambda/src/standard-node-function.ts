@@ -12,6 +12,7 @@ export class StandardNodeFunction extends NodejsFunction {
 			runtime: Runtime.NODEJS_18_X,
 			architecture: Architecture.ARM_64,
 			logRetention: RetentionDays.ONE_WEEK,
+			memorySize: 1024,
 			timeout: Duration.seconds(30),
 			bundling: {
 				minify: true,

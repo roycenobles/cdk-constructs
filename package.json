@@ -38,6 +38,7 @@
     "@semantic-release/npm": "^12.0.1",
     "@types/jest": "^29.5.12",
     "@types/node": "20.11.5",
+    "cdk-lambda-nodejs-mock": "^2.0.2",
     "gts": "^5.3.0",
     "jest": "^29.7.0",
     "semantic-release": "^23.1.1",
