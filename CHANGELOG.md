@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/roycenobles/cdk-constructs/compare/v1.0.8...v1.0.9) (2024-05-24)
+
+
+### Bug Fixes
+
+* fixed formatting ([367ec83](https://github.com/roycenobles/cdk-constructs/commit/367ec83372a897db4e71b5a1bb6ebccad8ea1498))
+
 ## [1.0.8](https://github.com/roycenobles/cdk-constructs/compare/v1.0.7...v1.0.8) (2024-05-23)
 
 
