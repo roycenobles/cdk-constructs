@@ -6,7 +6,8 @@
 		"./context": "./context/index.js",
 		"./core": "./core/index.js",
 		"./dynamodb": "./dynamodb/index.js",
-		"./lambda": "./lambda/index.js"
+		"./lambda": "./lambda/index.js",
+		"./s3": "./s3/index.js"
 	},
 	"scripts": {
 		"pretest": "npm run compile",
