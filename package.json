@@ -3,6 +3,8 @@
 	"version": "1.0.2",
 	"description": "CDK Constructs for use in AWS projects.",
 	"exports": {
+		"./context": "./context/index.js",
+		"./core": "./core/index.js",
 		"./dynamodb": "./dynamodb/index.js",
 		"./lambda": "./lambda/index.js"
 	},
