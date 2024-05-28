@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/roycenobles/cdk-constructs/compare/v1.2.0...v1.2.1) (2024-05-28)
+
+
+### Bug Fixes
+
+* added s3 module ([e96bb17](https://github.com/roycenobles/cdk-constructs/commit/e96bb17e7f0f922eb7cf788a611afc75f8e8471f))
+
 # [1.2.0](https://github.com/roycenobles/cdk-constructs/compare/v1.1.0...v1.2.0) (2024-05-28)
 
 
