@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/roycenobles/cdk-constructs/compare/v1.1.0...v1.2.0) (2024-05-28)
+
+
+### Features
+
+* added standard s3 bucket ([eb90682](https://github.com/roycenobles/cdk-constructs/commit/eb90682bdd1cdb05ded0719fa883064683d2081c))
+
 # [1.1.0](https://github.com/roycenobles/cdk-constructs/compare/v1.0.11...v1.1.0) (2024-05-28)
 
 
