@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/roycenobles/cdk-constructs/compare/v1.0.11...v1.1.0) (2024-05-28)
+
+
+### Features
+
+* added support for standard app ([952e27e](https://github.com/roycenobles/cdk-constructs/commit/952e27e92d135c1fe37e2169a5ff478c49ee639b))
+
 ## [1.0.11](https://github.com/roycenobles/cdk-constructs/compare/v1.0.10...v1.0.11) (2024-05-24)
 
 
