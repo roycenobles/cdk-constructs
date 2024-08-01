@@ -1,9 +1,10 @@
 import { Construct } from 'constructs';
 import { ContextHandler, IConfiguration, ResourceHandler } from '../../context';
+import { IAppScope } from './app-scope';
 import { Stack } from 'aws-cdk-lib';
 import { StandardApp } from './standard-app';
 
-export class StandardStack extends Stack {
+export class StandardStack extends Stack implements IAppScope {
 	public readonly contextHandler: ContextHandler;
 	public readonly resourceHandler: ResourceHandler;
 

@@ -1,6 +1,11 @@
 import { IConfiguration } from './context-handler';
+import { ScopedResourceHandler } from './scoped-resource-handler';
 
-export class ResourceHandler {
+export interface IResourceHandler {
+	generateFullName(name: string): string;
+}
+
+export class ResourceHandler implements IResourceHandler {
 	private app: string;
 	private stage: string;
 
@@ -9,7 +14,11 @@ export class ResourceHandler {
 		this.stage = config.env.stage;
 	}
 
-	public generateFullName(name: string) {
+	public generateFullName(name: string): string {
 		return `${this.app}-${name}-${this.stage}`;
+	}
+
+	public scope(resourceName: string) {
+		return new ScopedResourceHandler(this.stage, resourceName);
 	}
 }
