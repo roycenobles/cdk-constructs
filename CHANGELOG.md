@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/roycenobles/cdk-constructs/compare/v1.2.1...v1.3.0) (2024-08-01)
+
+
+### Features
+
+* added sub resource handler ([e3738a3](https://github.com/roycenobles/cdk-constructs/commit/e3738a3f9c52d1dd5aa2aa267a2a53558585193f))
+
 ## [1.2.1](https://github.com/roycenobles/cdk-constructs/compare/v1.2.0...v1.2.1) (2024-05-28)
 
 
