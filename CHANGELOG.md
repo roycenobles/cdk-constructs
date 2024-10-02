@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/roycenobles/cdk-constructs/compare/v1.4.0...v1.4.1) (2024-10-02)
+
+
+### Bug Fixes
+
+* update for sdk weirdness ([b147638](https://github.com/roycenobles/cdk-constructs/commit/b147638f01f52211f83881a9d3eee556a59dcd35))
+
 # [1.4.0](https://github.com/roycenobles/cdk-constructs/compare/v1.3.0...v1.4.0) (2024-08-01)
 
 
