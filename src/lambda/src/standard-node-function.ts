@@ -16,7 +16,7 @@ export class StandardNodeFunction extends NodejsFunction {
 			timeout: Duration.seconds(30),
 			bundling: {
 				minify: true,
-				externalModules: ['@aws-sdk/*', 'aws-lambda'],
+				externalModules: ['@aws-sdk/client-*', '@aws-sdk/s3-*', 'aws-lambda'],
 				...props.bundling,
 			},
 			...props,
