@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/roycenobles/cdk-constructs/compare/v1.4.1...v1.4.2) (2025-10-26)
+
+
+### Bug Fixes
+
+* upgraded packages and node version ([57331fa](https://github.com/roycenobles/cdk-constructs/commit/57331fabd92d3af79672c57388be076d8e221619))
+
 ## [1.4.1](https://github.com/roycenobles/cdk-constructs/compare/v1.4.0...v1.4.1) (2024-10-02)
 
 
