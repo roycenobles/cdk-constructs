@@ -9,7 +9,7 @@ type StandardNodeFunctionProps = Omit<NodejsFunctionProps, 'runtime'>;
 export class StandardNodeFunction extends NodejsFunction {
 	constructor(scope: Construct, id: string, props: StandardNodeFunctionProps) {
 		super(scope, id, {
-			runtime: Runtime.NODEJS_18_X,
+			runtime: Runtime.NODEJS_20_X,
 			architecture: Architecture.ARM_64,
 			logRetention: RetentionDays.ONE_WEEK,
 			memorySize: 1024,

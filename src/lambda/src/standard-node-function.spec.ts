@@ -23,7 +23,7 @@ describe('StandardNodeFunction', () => {
 			Architectures: ['arm64'],
 			Handler: 'index.handler',
 			MemorySize: 1024,
-			Runtime: 'nodejs18.x',
+			Runtime: 'nodejs20.x',
 			Timeout: 30,
 		});
 	});
