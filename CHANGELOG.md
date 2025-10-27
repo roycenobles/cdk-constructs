@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/roycenobles/cdk-constructs/compare/v1.5.0...v1.5.1) (2025-10-27)
+
+
+### Bug Fixes
+
+* deploy with readme updates ([7c62d0b](https://github.com/roycenobles/cdk-constructs/commit/7c62d0b52466df5ad7dbf9eed642e766dab343b2))
+
 # [1.5.0](https://github.com/roycenobles/cdk-constructs/compare/v1.4.2...v1.5.0) (2025-10-27)
 
 
