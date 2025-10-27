@@ -1,6 +1,6 @@
 # cdk-constructs
 
-CDK Constructs for use in AWS projects.
+CDK Constructs for use in my personal AWS projects.
 
 ## Installation
 
