@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/roycenobles/cdk-constructs/compare/v1.4.2...v1.5.0) (2025-10-27)
+
+
+### Features
+
+* deploy to npm ([e4197ad](https://github.com/roycenobles/cdk-constructs/commit/e4197ad693fc94965b8c2c6f8e40d71e8b189a4a))
+
 ## [1.4.2](https://github.com/roycenobles/cdk-constructs/compare/v1.4.1...v1.4.2) (2025-10-26)
 
 
